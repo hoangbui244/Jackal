@@ -1,0 +1,1645 @@
+fileFormatVersion: 2
+guid: defc707faab198148b30d73539ebd756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1645870199039663728
+    second: tank1-removebg-preview_0
+  - first:
+      213: -5118536680609544603
+    second: tank1-removebg-preview_1
+  - first:
+      213: -7673936317855122234
+    second: tank1-removebg-preview_2
+  - first:
+      213: -58422641484518887
+    second: tank1-removebg-preview_3
+  - first:
+      213: -6206641380658096331
+    second: tank1-removebg-preview_4
+  - first:
+      213: -4221785391319001102
+    second: tank1-removebg-preview_5
+  - first:
+      213: -8622672303887602698
+    second: tank1-removebg-preview_6
+  - first:
+      213: -4994565586832837546
+    second: tank1-removebg-preview_7
+  - first:
+      213: -5239639024431080201
+    second: tank1-removebg-preview_8
+  - first:
+      213: 9138973864421114962
+    second: tank1-removebg-preview_9
+  - first:
+      213: 1870617834079642587
+    second: tank1-removebg-preview_10
+  - first:
+      213: 6094294095098297785
+    second: tank1-removebg-preview_11
+  - first:
+      213: 6821774324753525722
+    second: tank1-removebg-preview_12
+  - first:
+      213: 6860916525069992522
+    second: tank1-removebg-preview_13
+  - first:
+      213: -214033621663216065
+    second: tank1-removebg-preview_14
+  - first:
+      213: 397809892027066944
+    second: tank1-removebg-preview_15
+  - first:
+      213: 3622432150128114325
+    second: tank1-removebg-preview_16
+  - first:
+      213: 2482944617066385259
+    second: tank1-removebg-preview_17
+  - first:
+      213: -9188115123731680580
+    second: tank1-removebg-preview_18
+  - first:
+      213: 3454218247467007757
+    second: tank1-removebg-preview_19
+  - first:
+      213: -8018515997667429789
+    second: tank1-removebg-preview_20
+  - first:
+      213: 3562041967143376669
+    second: tank1-removebg-preview_21
+  - first:
+      213: -706188341595740255
+    second: tank1-removebg-preview_22
+  - first:
+      213: -6145935862895439361
+    second: tank1-removebg-preview_23
+  - first:
+      213: -4321855529285761917
+    second: tank1-removebg-preview_24
+  - first:
+      213: -6976434291331683622
+    second: tank1-removebg-preview_25
+  - first:
+      213: 628930030853423811
+    second: tank1-removebg-preview_26
+  - first:
+      213: -1000881984669041951
+    second: tank1-removebg-preview_27
+  - first:
+      213: 7196651626886417145
+    second: tank1-removebg-preview_28
+  - first:
+      213: -7746509785112618760
+    second: tank1-removebg-preview_29
+  - first:
+      213: 2864431127533732842
+    second: tank1-removebg-preview_30
+  - first:
+      213: 1551138636679437152
+    second: tank1-removebg-preview_31
+  - first:
+      213: -6499559027402523122
+    second: tank1-removebg-preview_48
+  - first:
+      213: 5786211759166973952
+    second: tank1-removebg-preview_49
+  - first:
+      213: 1536979221841306733
+    second: tank1-removebg-preview_50
+  - first:
+      213: -5161074569968298241
+    second: tank1-removebg-preview_51
+  - first:
+      213: -4898912337156772890
+    second: tank1-removebg-preview_52
+  - first:
+      213: -5052599193851657760
+    second: tank1-removebg-preview_53
+  - first:
+      213: 7236510117637806841
+    second: tank1-removebg-preview_54
+  - first:
+      213: -5536017591689343759
+    second: tank1-removebg-preview_55
+  - first:
+      213: 5474047917403175128
+    second: tank1-removebg-preview_56
+  - first:
+      213: -4807069778769315942
+    second: tank1-removebg-preview_57
+  - first:
+      213: -8695283653009873745
+    second: tank1-removebg-preview_58
+  - first:
+      213: -134620034734189687
+    second: tank1-removebg-preview_59
+  - first:
+      213: -6865977219019305402
+    second: tank1-removebg-preview_60
+  - first:
+      213: -5413023449326428184
+    second: tank1-removebg-preview_61
+  - first:
+      213: 4007282388755650850
+    second: tank1-removebg-preview_62
+  - first:
+      213: -488336721113456461
+    second: tank1-removebg-preview_63
+  - first:
+      213: -2705188041983321679
+    second: tank1-removebg-preview_64
+  - first:
+      213: -3425439809889791312
+    second: tank1-removebg-preview_65
+  - first:
+      213: 7227241729287500155
+    second: tank1-removebg-preview_66
+  - first:
+      213: -1689042618632097023
+    second: tank1-removebg-preview_67
+  - first:
+      213: 8154708426621331811
+    second: tank1-removebg-preview_68
+  - first:
+      213: 3523985797795653766
+    second: tank1-removebg-preview_69
+  - first:
+      213: 6412445397826424706
+    second: tank1-removebg-preview_70
+  - first:
+      213: -3004781303757750601
+    second: tank1-removebg-preview_71
+  - first:
+      213: 7573556454460782009
+    second: tank1-removebg-preview_72
+  - first:
+      213: 3384695357418630478
+    second: tank1-removebg-preview_73
+  - first:
+      213: 8056101380092577157
+    second: tank1-removebg-preview_74
+  - first:
+      213: -8833496559037252359
+    second: tank1-removebg-preview_75
+  - first:
+      213: -4720336238435384499
+    second: tank1-removebg-preview_76
+  - first:
+      213: -1059176385373122628
+    second: tank1-removebg-preview_77
+  - first:
+      213: -1894483479115805002
+    second: tank1-removebg-preview_78
+  - first:
+      213: 1783572858488512888
+    second: tank1-removebg-preview_79
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tank1-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091e6df26c1b829e0800000000000000
+      internalID: -1645870199039663728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660676120e47f8b0800000000000000
+      internalID: -5118536680609544603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb641c393b08590800000000000000
+      internalID: -7673936317855122234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aa977cae0703ff0800000000000000
+      internalID: -58422641484518887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53752a96c849dd9a0800000000000000
+      internalID: -6206641380658096331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75f78fd843965c0800000000000000
+      internalID: -4221785391319001102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2e28793d165880800000000000000
+      internalID: -8622672303887602698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 505.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6543075af0dbfaab0800000000000000
+      internalID: -4994565586832837546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd28d61101947b0800000000000000
+      internalID: -5239639024431080201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25446603f4824de70800000000000000
+      internalID: 9138973864421114962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3e3d65205c5f910800000000000000
+      internalID: 1870617834079642587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd3817c038439450800000000000000
+      internalID: 6094294095098297785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb60d4ea9fcbae50800000000000000
+      internalID: 6821774324753525722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4287669a3fd63f50800000000000000
+      internalID: 6860916525069992522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e06ca1e89970df0800000000000000
+      internalID: -214033621663216065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae8663dfd458500800000000000000
+      internalID: 397809892027066944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a375b19d6754230800000000000000
+      internalID: 3622432150128114325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 388
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc53959f0357220800000000000000
+      internalID: 2482944617066385259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 389
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23496c9f14d7080800000000000000
+      internalID: -9188115123731680580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 389
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f71f0e139dfef20800000000000000
+      internalID: 3454218247467007757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 389
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362fe3d1f2288b090800000000000000
+      internalID: -8018515997667429789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 387
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d175d9eeb4aee6130800000000000000
+      internalID: 3562041967143376669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 389
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e9a2e17d1336f0800000000000000
+      internalID: -706188341595740255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 388
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff198cf25ef35baa0800000000000000
+      internalID: -6145935862895439361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844d565b4fa504c0800000000000000
+      internalID: -4321855529285761917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada225a89f9be2f90800000000000000
+      internalID: -6976434291331683622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 335
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20895e7886ab800800000000000000
+      internalID: 628930030853423811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab6b943272c12f0800000000000000
+      internalID: -1000881984669041951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 335
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa4dc07684afd360800000000000000
+      internalID: 7196651626886417145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 333
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f85649a46ede7490800000000000000
+      internalID: -7746509785112618760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae348302fe080c720800000000000000
+      internalID: 2864431127533732842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 333
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b59ac2f50c68510800000000000000
+      internalID: 1551138636679437152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3dfe208decc5a0800000000000000
+      internalID: -6499559027402523122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e55430f0cc4050800000000000000
+      internalID: 5786211759166973952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e1018572745510800000000000000
+      internalID: 1536979221841306733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6dcbde50e2068b0800000000000000
+      internalID: -5161074569968298241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebedf55f21930cb0800000000000000
+      internalID: -4898912337156772890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10c029dcf81e9b0800000000000000
+      internalID: -5052599193851657760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa525f7c9f3d6460800000000000000
+      internalID: 7236510117637806841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 169.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0b09d45d1c23b0800000000000000
+      internalID: -5536017591689343759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d878400499b7fb40800000000000000
+      internalID: 5474047917403175128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9770f1518bd94db0800000000000000
+      internalID: -4807069778769315942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4e5115695245780800000000000000
+      internalID: -8695283653009873745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983940aaacbb12ef0800000000000000
+      internalID: -134620034734189687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e0e68c81627b0a0800000000000000
+      internalID: -6865977219019305402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd90e2ad311e4b0800000000000000
+      internalID: -5413023449326428184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2299570e91abc9730800000000000000
+      internalID: 4007282388755650850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 113.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e047e6541939f0800000000000000
+      internalID: -488336721113456461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b913fafecd357ad0800000000000000
+      internalID: -2705188041983321679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2990444a46670d0800000000000000
+      internalID: -3425439809889791312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71bf0caf025c4460800000000000000
+      internalID: 7227241729287500155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10330f1ffa05f88e0800000000000000
+      internalID: -1689042618632097023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36926a7cb185b2170800000000000000
+      internalID: 8154708426621331811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a1278966b7e030800000000000000
+      internalID: 3523985797795653766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f480f5d159df850800000000000000
+      internalID: 6412445397826424706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 57.8
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb8c1035fdc46d0800000000000000
+      internalID: -3004781303757750601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5708a087daa1960800000000000000
+      internalID: 7573556454460782009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de9d3ae7ad8fe20800000000000000
+      internalID: 3384695357418630478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c3faa5850dcf60800000000000000
+      internalID: 8056101380092577157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf2f17ead196580800000000000000
+      internalID: -8833496559037252359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43c7a7533ffd7eb0800000000000000
+      internalID: -4720336238435384499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4a5370bc0d41f0800000000000000
+      internalID: -1059176385373122628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec47a205175b5e0800000000000000
+      internalID: -1894483479115805002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1.7999992
+        width: 55.5
+        height: 56.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8716c35a01680c810800000000000000
+      internalID: 1783572858488512888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
